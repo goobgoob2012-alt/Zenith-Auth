@@ -16,7 +16,7 @@ Zenith-Radeon operates on a subscription-based model to ensure continuous securi
 
 * **Free Tier:** Basic iOS environment access.
 * **Pro Tier ($5/mo):** Full GPU acceleration and priority core access.
-* **[GET PRO ACCESS HERE](PASTE_YOUR_GUMROAD_LINK_HERE)**
+* **(https://goobster62.gumroad.com/l/khwhrp)**
 
 ## 🛡️ Security & Compliance
 This repository contains the authentication bridge and deployment scripts. The core hypervisor logic is encrypted and hardware-bound to prevent unauthorized replication.
